@@ -14,4 +14,4 @@
 
 //the program uses some external addons such as ofxCV, ofxFacetracker, ofxGui, ofxMaxim and ofxOpenCv
 
-//Made by Lu Priace Michavila - a.k.a Lucio Celomundo
+//Made by Lu Priace Michavila - a.k.a Lucio Celomundo in May 2020
